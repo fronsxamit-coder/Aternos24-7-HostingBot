@@ -1,7 +1,7 @@
 {
-  "name": "AFK",
+  "name": "ALI",
   "bot-account": {
-    "username": "AFK",
+    "username": "ALI",
     "password": "",
     "type": "offline"
   },
@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 300,
       "messages": [
-        "I'm a regular player",
-        "I like to play Minecraft!"
+        "I'm a gay player",
+        "I am gayyyyyy!"
       ]
     },
     "chat-log": true,
